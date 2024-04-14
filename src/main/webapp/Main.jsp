@@ -14,5 +14,6 @@
 	<h1 class="c1">HELLO > master in gitHub ...</h1>
 	<h1 class="c1">HELLO > master  ...</h1>
 	<h1 class="c1">HELLO > master  in gitHub again hh...</h1>
+	<h1 class="c1">HELLO > ${ msg } </h1>
 </body>
 </html>
